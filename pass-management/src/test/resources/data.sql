@@ -1,0 +1,2 @@
+INSERT INTO PASS(ID, CUSTOMER_NAME, HOME_CITY, PASS_CITY, PASS_LENGTH, PASS_ID, VENDOR_ID) values (123, 'John Smith Active', 'London', 'Manchester', 4709005200, 'john-pass-id', 'john-vendor-id');
+INSERT INTO PASS(ID, CUSTOMER_NAME, HOME_CITY, PASS_CITY, PASS_LENGTH, PASS_ID, VENDOR_ID) values (124, 'Craig Smith Expired', 'Liverpool', 'Birmingham', 1553331600, 'craig-pass-id', 'craig-vendor-id');
