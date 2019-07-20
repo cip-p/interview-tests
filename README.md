@@ -30,7 +30,7 @@ Fairly complex test, might take few days to complete it.
 
 ##pass-management
 ####Requirement
-Implement a pass management system based on `REST APIs` using `java` and `spring boot`.
+Implement a pass management system using `REST APIs`, `java` and `spring boot`.
 I had to build 4 APIs and use a database which had to persist data during application restarts.
 
 ####Tools and approach
