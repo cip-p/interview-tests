@@ -1,0 +1,10 @@
+target
+classes
+*.iml
+out
+
+logs
+*.log
+
+.idea/*
+!.idea/runConfigurations
