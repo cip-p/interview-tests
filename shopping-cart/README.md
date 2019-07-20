@@ -1,8 +1,8 @@
 # shopping-cart Java interview test
 
-####Requirement
+#### Requirement
 Implement a shopping cart using `java`.
 
-####Tools and approach
+#### Tools and approach
 - `java 8` and `maven` coding test
 - `TDD` - `unit testing`
